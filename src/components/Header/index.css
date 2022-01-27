@@ -1,0 +1,38 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #272727;
+  padding: 10px;
+}
+.nav-logo {
+  width: 100px;
+  height: 30px;
+  margin-left: 39px;
+}
+.link-nav-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-link {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-left: 10px;
+}
+.nav-button {
+  background-color: #4f46e5;
+  font-family: 'roboto';
+  color: #ffffff;
+  border-width: 0px;
+  font-weight: 800;
+  padding: 4px;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+.link {
+  text-decoration: none;
+}

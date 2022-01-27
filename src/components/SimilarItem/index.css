@@ -1,0 +1,22 @@
+.similar-item-card {
+  background-color: #202020;
+  list-style-type: none;
+  padding: 15px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.img-rat {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.dec-similar {
+  color: #ffffff;
+  font-family: 'roboto';
+
+  width: 340px;
+  line-height: 40px;
+}
+.ex-image {
+  width: 50%;
+}
